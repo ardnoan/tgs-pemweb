@@ -228,7 +228,7 @@ $title = "Toko 123 - Management System";
             </a>
             
             <div class="user-info">
-                <img src="profile.png" alt="Profile" class="user-avatar" onerror="this.src='https://via.placeholder.com/35x35/667eea/ffffff?text=U'">
+                <img src="profile.png" alt="Profile" class="user-avatar">
                 <div>
                     <div style="font-size: 14px; opacity: 0.9;">Welcome,</div>
                     <div style="font-weight: 600;"><?php echo htmlspecialchars($currentUser['name']); ?></div>

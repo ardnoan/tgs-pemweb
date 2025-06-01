@@ -177,7 +177,7 @@
             
             <form method="post" id="loginForm">
                 <div class="form-floating">
-                    <input type="email" class="form-control" id="email" name="email" placeholder="name@example.com" required>
+                    <input type="text" class="form-control" id="email" name="email" placeholder="name@example.com" required>
                     <label for="email"><i class="fas fa-envelope me-2"></i>Email</label>
                 </div>
                 
